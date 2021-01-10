@@ -3,7 +3,7 @@
 using namespace std;
 
 class Range {
-		protected:
+	protected:
         int start, end;
 
         private:
